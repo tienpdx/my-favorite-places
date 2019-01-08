@@ -3,6 +3,7 @@ body {
   background-color: #ffe6b3;
   font-family: sans-serif;
   font-weight: lighter;
+
 }
 
 h1 {
@@ -31,9 +32,17 @@ p {
 
 #links {
   margin-left: 100px;
+  padding-top: 30px;
   padding-bottom: 50px;
 }
 
 #links a {
   padding-right: 20px;
+}
+
+#banner {
+  height: 190px;
+  background-image: url("../img/sky.jpg");
+  background-size: auto;
+  background-repeat: no-repeat;
 }
