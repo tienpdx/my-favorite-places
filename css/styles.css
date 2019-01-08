@@ -1,0 +1,39 @@
+
+body {
+  background-color: #ffe6b3;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+h1 {
+  padding-left: 100px;
+  padding-top: 50px;
+  font-size: 50px;
+}
+
+img {
+  height: 200px;
+}
+
+table {
+  padding-left: 100px;
+  width: 50%;
+}
+
+td {
+  padding-bottom: 30px;
+}
+
+p {
+  padding-left: 20px;
+  line-height: 0.8cm;
+}
+
+#links {
+  margin-left: 100px;
+  padding-bottom: 50px;
+}
+
+#links a {
+  padding-right: 20px;
+}
