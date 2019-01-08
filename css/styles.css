@@ -1,8 +1,9 @@
 
 body {
-  background-color: #ffe6b3;
+  background-image: url("../img/plam.png");
   font-family: sans-serif;
-  font-weight: lighter;
+  font-weight: bolder;
+  color: blue;
 }
 
 h1 {
@@ -17,7 +18,7 @@ img {
 
 table {
   padding-left: 100px;
-  width: 50%;
+  width: 80%;
 }
 
 td {
