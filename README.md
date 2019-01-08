@@ -7,7 +7,7 @@
 
 ## Description
 
-A webpage of favorite places to visit and explore.
+A webpage of favorite places to visit and explore. Check out the shop!
 
 ## Setup/Installation Requirements
 
